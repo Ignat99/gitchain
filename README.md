@@ -3,7 +3,7 @@ Gitchain
 Decentralized P2P Git Network
 
 [![Build Status](https://secure.travis-ci.org/gitchain/gitchain.png)](http://travis-ci.org/gitchain/gitchain)
-
+[![tip for next commit](https://tip4commit.com/projects/808.svg)](https://tip4commit.com/github/gitchain/gitchain)
 
 To quote from git's own description:
 
